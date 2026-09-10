@@ -1,2 +1,2 @@
 @echo off
-start portfolio.html
+start index.html
